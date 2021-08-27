@@ -1,4 +1,5 @@
-## Hey, eu sou o Yves! Sou um entusiasta do Flutter e apaixonado por IOS também.
+## Hey, eu sou o Yves!
+## Estou aprendendo a programar em Flutter.
 
  <div>
   <a href="https://github.com/yves-oliveira">
