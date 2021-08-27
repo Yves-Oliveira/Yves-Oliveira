@@ -1,5 +1,5 @@
 ## Hey, eu sou o Yves!
-## Estou aprendendo a programar em Flutter.
+## Sou apaixonado por IOS e atualmente estou aprendendo a programar em Flutter.
 
  <div>
   <a href="https://github.com/yves-oliveira">
@@ -7,10 +7,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yves-oliveira&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Flutter" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
-  <img align="center" alt="dart" height="30" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
-  <img align="center" alt="Swift" height="30" width="40" src="https://img.icons8.com/color/48/000000/swift.png"/>
-  <img align="center" alt="kotlin" height="30" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+  <img align="center" alt="Flutter" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
+  <img align="center" alt="dart" height="40" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
+  <img align="center" alt="Swift" height="40" width="40" src="https://img.icons8.com/color/48/000000/swift.png"/>
+  <img align="center" alt="kotlin" height="40" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
  
 
 </div>
