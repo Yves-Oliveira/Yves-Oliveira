@@ -6,7 +6,10 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
-  <img align="center" alt="Flutter" height="30" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
+  <img align="center" alt="dart" height="30" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
+  <img align="center" alt="Swift" height="30" width="40" src="https://img.icons8.com/color/48/000000/swift.png"/>
+  <img align="center" alt="kotlin" height="30" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+ 
 
 </div>
   
