@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a align="center" alt="Dart" height="30" width="40" href="https://icons8.com/icon/7AFcZ2zirX6Y/dart">Dart icon by Icons8</a>
+  <a href="https://icons8.com/icon/7AFcZ2zirX6Y/dart"></a>
 
  
 </div>
