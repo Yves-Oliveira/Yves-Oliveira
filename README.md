@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yves-oliveira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yves-oliveira&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
   <img align="center" alt="dart" height="40" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
