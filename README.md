@@ -1,5 +1,5 @@
 ## Hey, eu sou o Yves!!!
-## Sou apaixonado por IOS e atualmente estou aprendendo a programar em Flutter.
+## Sou um cara com Background em finanças que está aprendendo a programar em Java / Flutter e Swift.
 
  <div>
   <a href="https://github.com/yves-oliveira">
@@ -8,12 +8,10 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Flutter" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
-  <img align="center" alt="dart" height="40" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
-  <img align="center" alt="Swift" height="40" width="40" src="https://img.icons8.com/color/48/000000/swift.png"/>
-  <img align="center" alt="kotlin" height="40" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
- 
-
+   <img align="center" alt="Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+   <img align="center" alt="Flutter" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
+   <img align="center" alt="dart" height="40" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
+   <img align="center" alt="Swift" height="40" width="40" src="https://img.icons8.com/color/48/000000/swift.png"/>
 </div>
   
   ##
