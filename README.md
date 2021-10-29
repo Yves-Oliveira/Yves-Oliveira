@@ -1,5 +1,5 @@
 ## Hey, eu sou o Yves!!!
-## Sou um cara com Background em finanças que está aprendendo a programar em Java / Flutter e Swift.
+## Sou um cara que está aprendendo a programar e possui background em finança.
 
  <div>
   <a href="https://github.com/yves-oliveira">
