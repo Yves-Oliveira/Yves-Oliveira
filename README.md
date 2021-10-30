@@ -1,5 +1,5 @@
-## Hey, i'm just a human, maybe!!!
-## I'm just a man trying to learning something new every day.
+## Hey, my name is Yves!!!
+## I'm just a man trying to make our lives better with technology.
 
  <div>
   <a href="https://github.com/yves-oliveira">
