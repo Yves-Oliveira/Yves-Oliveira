@@ -1,5 +1,5 @@
-## Hey, eu sou o Yves!!!
-## Sou um cara que está aprendendo a programar e possui background em finança.
+## Hey, i'm just a human, maybe!!!
+## I'm just a man trying to learning something new every day.
 
  <div>
   <a href="https://github.com/yves-oliveira">
@@ -9,9 +9,10 @@
  
 <div style="display: inline_block"><br>
    <img align="center" alt="Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+   <img align="center" alt="Python" height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v2.png"/>
    <img align="center" alt="Flutter" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
-   <img align="center" alt="dart" height="40" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
-   <img align="center" alt="Swift" height="40" width="40" src="https://img.icons8.com/color/48/000000/swift.png"/>
+   <img align="center" alt="Dart" height="40" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
+  
 </div>
   
   ##
