@@ -1,4 +1,4 @@
-## Hey, my name is Yves!!!
+## Hey,i'm Yves!!!
 ## I'm just a man trying to make our lives better with technology.
 
  <div>
