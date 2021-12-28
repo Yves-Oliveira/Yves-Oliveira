@@ -4,7 +4,7 @@
  <div>
   <a href="https://github.com/yves-oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yves-oliveira&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yves-oliveira&layout=compact&langs_count=8&theme=vue-dark&langs_count=8&hide=CMake,HTML,CSS, Ruby,Shell"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yves-oliveira&layout=compact&langs_count=8&theme=vue-dark&langs_count=8&hide=CMake,HTML,CSS,Ruby,Shell"/>
 </div>
  
 <div style="display: inline_block"><br>
