@@ -8,13 +8,12 @@
 </div>
  
 <div style="display: inline_block"><br>
-   <img align="center" alt="C++" height="40" width="40" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>
    <img align="center" alt="Java" height="40" width="40" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png"/>
-   <img align="center" alt="Spring" height="40" width="40" src="https://img.icons8.com/color/144/000000/spring-logo.png"/>
-   <img align="center" alt="Python" height="40" width="40" src="https://img.icons8.com/color/144/000000/python--v2.png"/>
    <img align="center" alt="Flutter" height="40" width="40" src="https://img.icons8.com/fluency/144/000000/flutter.png"/>
    <img align="center" alt="Dart" height="40" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
-  
+   <img align="center" alt="Spring" height="40" width="40" src="https://img.icons8.com/color/144/000000/spring-logo.png"/> 
+   <img align="center" alt="C++" height="40" width="40" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>
+   <img align="center" alt="Python" height="40" width="40" src="https://img.icons8.com/color/144/000000/python--v2.png"/>  
 </div>
   
   ##
