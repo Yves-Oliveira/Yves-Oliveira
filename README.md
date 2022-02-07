@@ -4,16 +4,14 @@
  <div>
   <a href="https://github.com/yves-oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yves-oliveira&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yves-oliveira&layout=compact&langs_count=8&theme=vue-dark&langs_count=8&hide=CMake,HTML,CSS,Ruby,Shell"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yves-oliveira&layout=compact&langs_count=6&theme=vue-dark&langs_count=8&hide=CMake,HTML,CSS,Ruby,Shell,C,Objective-C,Swift"/>
 </div>
  
 <div style="display: inline_block"><br>
    <img align="center" alt="Java" height="40" width="40" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png"/>
+   <img align="center" alt="CSharp" height="40" width="40" src="https://img.icons8.com/color/240/000000/c-sharp-logo-2.png"/> 
    <img align="center" alt="Flutter" height="40" width="40" src="https://img.icons8.com/fluency/144/000000/flutter.png"/>
    <img align="center" alt="Dart" height="40" width="40" src="https://img.icons8.com/color/480/000000/dart.png"/>
-   <img align="center" alt="Spring" height="40" width="40" src="https://img.icons8.com/color/144/000000/spring-logo.png"/> 
-   <img align="center" alt="C++" height="40" width="40" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>
-   <img align="center" alt="Python" height="40" width="40" src="https://img.icons8.com/color/144/000000/python--v2.png"/>  
 </div>
   
   ##
